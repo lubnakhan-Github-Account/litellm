@@ -5,6 +5,6 @@
  _________________________
  
 > 1. To prevent error install **only** litellm package.
->>     *  Because the openai-agent package and litellm package conflict to each other.
+>>       Because the openai-agent package and litellm package conflict to each other.
 
 
