@@ -5,8 +5,9 @@
  ___
 
  ```python
- 1. To prevent error install **only** litellm package.
+ 1. To prevent error install only litellm package.
+
+     2.  Because the openai-agent package and litellm package conflict to each other.
 ```
-     >>  Because the openai-agent package and litellm package conflict to each other.
 
 
